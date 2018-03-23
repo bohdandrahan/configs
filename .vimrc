@@ -7,6 +7,7 @@ set shiftwidth=4
 set background=dark
 set number
 set clipboard=unnamedplus
+set laststatus=2
 
 set incsearch
 set hlsearch 
