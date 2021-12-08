@@ -1,0 +1,173 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.formatOnSave": true,
+    "vim.easymotion": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "h",
+                "h"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "j"
+            ],
+            "after": [
+                "d"
+            ]
+        },
+        {
+            "before": [
+                "l"
+            ],
+            "after": [
+                "t"
+            ]
+        },
+        {
+            "before": [
+                "d"
+            ],
+            "after": [
+                "h"
+            ]
+        },
+        {
+            "before": [
+                "h"
+            ],
+            "after": [
+                "j"
+            ]
+        },
+        {
+            "before": [
+                "t"
+            ],
+            "after": [
+                "k"
+            ]
+        },
+        {
+            "before": [
+                "n"
+            ],
+            "after": [
+                "l"
+            ]
+        },
+    ],
+    "vim.visualModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "j"
+            ],
+            "after": [
+                "d"
+            ]
+        },
+        {
+            "before": [
+                "l"
+            ],
+            "after": [
+                "t"
+            ]
+        },
+        {
+            "before": [
+                "d"
+            ],
+            "after": [
+                "h"
+            ]
+        },
+        {
+            "before": [
+                "h"
+            ],
+            "after": [
+                "j"
+            ]
+        },
+        {
+            "before": [
+                "t"
+            ],
+            "after": [
+                "k"
+            ]
+        },
+        {
+            "before": [
+                "n"
+            ],
+            "after": [
+                "l"
+            ]
+        },
+    ],
+    "vim.operatorPendingModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "j"
+            ],
+            "after": [
+                "d"
+            ]
+        },
+        {
+            "before": [
+                "l"
+            ],
+            "after": [
+                "t"
+            ]
+        },
+        {
+            "before": [
+                "d"
+            ],
+            "after": [
+                "h"
+            ]
+        },
+        {
+            "before": [
+                "h"
+            ],
+            "after": [
+                "j"
+            ]
+        },
+        {
+            "before": [
+                "t"
+            ],
+            "after": [
+                "k"
+            ]
+        },
+        {
+            "before": [
+                "n"
+            ],
+            "after": [
+                "l"
+            ]
+        },
+    ],
+}
